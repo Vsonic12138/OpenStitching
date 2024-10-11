@@ -25,5 +25,6 @@
 
 
 ----------
-**拼接图像结果：**
+**拼接图像结果：**  在拼接图像的四周有一些黑边，不过效果还是挺好的。  可以根据不同的图像内容修改i程序当中的配置选项，比如全景模式（PANORAMA）、或者扫描模式（SCAN）。具体见main.cpp的注释内容。
+
 ![stitched_output](https://github.com/user-attachments/assets/1c08693d-372c-435d-9a7d-93e1c2ba853e)
